@@ -1,13 +1,13 @@
 ## Скриншоты
 
-![Screen 1](public/screenshoots/photo_1_2025-10-26_13-58-17.jpg)
-![Screen 2](public/screenshoots/photo_2_2025-10-26_13-58-17.jpg)
-![Screen 3](public/screenshoots/photo_3_2025-10-26_13-58-17.jpg)
-![Screen 4](public/screenshoots/photo_4_2025-10-26_13-58-17.jpg)
-![Screen 5](public/screenshoots/photo_5_2025-10-26_13-58-17.jpg)
-![Screen 6](public/screenshoots/photo_6_2025-10-26_13-58-17.jpg)
-![Screen 7](public/screenshoots/photo_7_2025-10-26_13-58-17.jpg)
-![Screen 8](public/screenshoots/photo_8_2025-10-26_13-58-17.jpg)
+![Screen 1](screenshoots/photo_1_2025-10-26_13-58-17.jpg)
+![Screen 2](screenshoots/photo_2_2025-10-26_13-58-17.jpg)
+![Screen 3](screenshoots/photo_3_2025-10-26_13-58-17.jpg)
+![Screen 4](screenshoots/photo_4_2025-10-26_13-58-17.jpg)
+![Screen 5](screenshoots/photo_5_2025-10-26_13-58-17.jpg)
+![Screen 6](screenshoots/photo_6_2025-10-26_13-58-17.jpg)
+![Screen 7](screenshoots/photo_7_2025-10-26_13-58-17.jpg)
+![Screen 8](screenshoots/photo_8_2025-10-26_13-58-17.jpg)
 
 # Getting Started with Create React App
 
